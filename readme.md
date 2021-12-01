@@ -1,6 +1,5 @@
-<p align="center" width="100%">
-DNA	 
-</p>
+# DNA	 
+
 
 HI ! This is a small prototype made in a few day for the Game Off 2021 !
 
@@ -17,9 +16,9 @@ If your body state is below 20/100 you lose !
 ## Controls
 
 You just need your left click.
-In create mode : create and kill a cell.
-In link mode : select two cell to link.
-In edit mode : edit cell property.
-In move move : move in the space.
+- In create mode : create and kill a cell.
+- In link mode : select two cell to link. 
+- In edit mode : edit cell property.
+- In move move : move in the space.
 
 
